@@ -32,7 +32,6 @@ main {
     "caption"
     "annotation";
     grid-template-rows: 65% 13% 17% 5%;
-    /*margin: auto;*/
 }
 
 /*qr code*/
@@ -54,7 +53,7 @@ img {
 }
 .title {
     color: var(--clr-blue);
-    font-size: 22px;
+    font-size: 1.467rem;
     font-weight: 700;
     text-align: center;
 }
